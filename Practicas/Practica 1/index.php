@@ -3,8 +3,8 @@
     echo("hola");
 
     $var1 = 1;
-    $var2 = "Ariel";
-    $var3 = 'Chavez';
+    $var2 = "Carlos";
+    $var3 = 'Guerrero';
     $var4 = 2.2222;
     $var5 = true;
 
